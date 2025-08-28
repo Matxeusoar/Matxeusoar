@@ -8,3 +8,6 @@ Oi, eu me chamo Mateus Soares residente de MAceio-AL, sou programador Front-end 
 - 📫 e-mail: matxeusoar1996@icloud.com
 - ⚡ por enquanto estou iniciando aqui no github e no mundo de estudo sobre ser um developer,
 - ⚡ mas em breve estarei aqui mostrando projetos interessantes e que venham agregar no mundo profissional.
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matxeusoar&show_icons=true&theme=radical)
